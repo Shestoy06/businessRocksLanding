@@ -79,6 +79,10 @@ body {
   text-transform: uppercase;
 }
 
+body._lock {
+  overflow: hidden;
+}
+
 * {
   -webkit-transition: 0.3s;
   transition: 0.3s;
