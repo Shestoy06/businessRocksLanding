@@ -1,5 +1,5 @@
 # businessRocksLanding
-## HTML/CSS/JS Practice <br/>
+## HTML/CSS/JS Practice  
 ### You can see it deployed here: [link](https://shestoy06.github.io/businessRocksLanding/web/)
 Layout from Youtube channel "Фрилансер по жизни" <br/>
 [Link on layout](https://www.patreon.com/posts/37446938) </br></br>
